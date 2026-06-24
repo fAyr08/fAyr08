@@ -68,7 +68,7 @@ Also, I love to explore the **databases migration strategies** and **performance
 
 | | |
 |---|---|
-| 🏢 **Company** | BharatPe — Payin Team (UPI infrastructure) |
+| 🏢 **Company** | BharatPe — Payments Team (UPI infrastructure) |
 | 📍 **Location** | Gurugram, India |
 | 🔭 **Interests** | Distributed systems · Fintech |
 | 🎯 **Currently building** | WAL engine |
@@ -86,5 +86,5 @@ Also, I love to explore the **databases migration strategies** and **performance
 ---
 
 <p align="center">
-  <sub>Open to backend/fintech SDE-II roles · <a href="mailto:YOUR_EMAIL">Reach out</a></sub>
+  <sub>Open to backend/fintech SDE-II roles · <a href="mailto:ayrj085@gmail.com">Reach out</a></sub>
 </p>
